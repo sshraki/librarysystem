@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/BooksLibApp/providers/Microsoft.ServiceLinker/linkers/BooksConnectionString_B32ABEF57C",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/bookslibrarydbserver/databases/BooksApp_db",
+      "type": "mssql.azure",
+      "connectionId": "BooksConnectionString",
+      "dynamicId": null
+    }
+  }
+}

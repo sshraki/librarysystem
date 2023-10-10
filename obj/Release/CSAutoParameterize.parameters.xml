@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BooksConnectionString-Web.config Connection String" description="BooksConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=SAYED;User ID=sa;Password=Sa@12345;;Persist Security Info=False;Initial Catalog=Books; " tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\work\\BooksApp\\BooksApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BooksConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
