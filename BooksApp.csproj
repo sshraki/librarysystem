@@ -127,6 +127,7 @@
     <Content Include="Scripts\jquery-1.10.2%281%29.js" />
     <Content Include="Scripts\jquery-1.10.2.intellisense%281%29.js" />
     <Content Include="Default.aspx" />
+    <Content Include="Project Description.docx" />
     <None Include="Properties\PublishProfiles\BooksLibApp - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

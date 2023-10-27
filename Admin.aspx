@@ -26,7 +26,7 @@ OnUpdateCommand="RadGrid1_UpdateCommand"
 OnItemCreated="RadGrid1_ItemCreated" 
 OnDeleteCommand="RadGrid1_DeleteCommand"
 OnInsertCommand="RadGrid1_InsertCommand"
-OnItemCommand="RadGrid1_ItemCommand" Width="1619px" >
+OnItemCommand="RadGrid1_ItemCommand" Width="1224px" style="margin-right: 0px" >
         <GroupingSettings CollapseAllTooltip="Collapse all groups">
         </GroupingSettings>
         <MasterTableView AutoGenerateColumns="False" CommandItemDisplay="Top" DataSourceID="usersconnection">

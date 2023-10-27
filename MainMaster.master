@@ -37,7 +37,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="Home.aspx">Home</a></li>
                         <li><a href="Books.aspx">Books</a></li>
-                        <li><a href="Admin.aspx">Admin</a></li>
+                        <li><a href="Admin.aspx">Users</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="#" id="registerLink">Welcome <b>Admin</b></a></li>
